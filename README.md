@@ -1,4 +1,3 @@
-Hier ist ein professioneller README-Text auf Englisch:
 
 ---
 
